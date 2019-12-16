@@ -1,0 +1,20 @@
+{
+  "ProfaneWords": {
+    "whitelist": 1
+  },
+  "NonInclusiveWords": {
+    "Whitelist": 1,
+    "disabled": 1
+  },
+  "GenderBiasedWords": {
+    "to a man": 1,
+    "waitress": 3
+  },
+  "Languages": {
+    "eng": 27
+  },
+  "ProfaneWordsScore": 0,
+  "NonInclusiveWordsScore": 0,
+  "GenderBiasedWordsScore": 0,
+  "LanguagesScore": 0
+}
